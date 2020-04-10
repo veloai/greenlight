@@ -2,7 +2,7 @@
 
 class UserMailerPreview < ActionMailer::Preview
   def initialize(_params)
-    @logo = "https://raw.githubusercontent.com/bigbluebutton/greenlight/master/app/assets/images/logo_with_text.png"
+    @logo = "https://www.cocle.kr/images/gnb_logo.png"
     @color = "#467fcf"
   end
 
