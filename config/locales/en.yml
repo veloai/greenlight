@@ -181,7 +181,7 @@ en:
   errors:
     bigbluebutton:
       help: Please make sure the proper steps have been taken. <a href="%{doc_link}">Learn more</a>
-      message: Invalid BigBlueButton Endpoint and Secret
+      message: Invalid CodingCloud Endpoint and Secret
       title: Server Error
     internal:
       message: Looks like something went wrong on our end.
